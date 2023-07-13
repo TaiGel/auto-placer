@@ -16,7 +16,7 @@ class AutoPlacer {
 		/* Literals */
 		this.RECAPTCHA_TITLE = "recaptcha challenge";
 		this.REDDIT = "reddit.com";
-		this.PIXLS = "pxls.space";
+		this.PIXLS = "canvas.cdawgva.com";
 
 		/* Init the needed members */
 		this.WAIT_TIME = 3;
